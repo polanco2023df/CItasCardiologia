@@ -163,4 +163,3 @@ elif menu_principal == "Citas":
         borrar_cita()
     elif opcion == "Consultar Citas":
         consultar_citas()
-
